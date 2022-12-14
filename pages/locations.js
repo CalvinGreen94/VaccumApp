@@ -8,7 +8,7 @@ export default function EventsPage() {
         <Box>
             <Head>
                 <title>
-                    Beau | Events
+                    Beau's Cleaning Services | Locations Offered
                 </title>
             </Head>
             <Heading pb={10} fontSize="3xl" textShadow='0.5px 0.5px white'>
