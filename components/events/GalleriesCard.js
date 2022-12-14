@@ -1,4 +1,4 @@
-import { Box, Image, Button, Text, Link } from "@chakra-ui/react"
+import { Box, Image,Spacer, Button, Text, Link } from "@chakra-ui/react"
 import styles from "@styles/Events.module.css"
 
 export default function CurrentEventsCard({ gallery }) {
@@ -27,6 +27,7 @@ export default function CurrentEventsCard({ gallery }) {
                     </Button>
                 </Box>
             </Box>
+            <Spacer />
         </Box>
     );
 }

@@ -71,6 +71,7 @@ export default function Home() {
                 {galleriesData.map((gallery, i) => (
                     <Flex key={i}>
                         <GalleriesCard gallery={gallery} />
+                        <Spacer />
                     </Flex>
                 ))}
                 </SimpleGrid>

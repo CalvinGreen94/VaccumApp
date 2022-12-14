@@ -16,7 +16,7 @@ export default function MBY() {
 
   return (
     <CustomContainer>
-      <Box fontSize="xl" fontWeight="White" align="left">
+      <Box fontSize="xl" fontWeight="White" align="right">
 
       <ImPhone /> (757) 201-2665  <Spacer />
       <Spacer />
