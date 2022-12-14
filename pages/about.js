@@ -14,7 +14,9 @@ export default function AboutPage() {
             </Heading>
             
             <Text pt={5}>
-            <span style={{color: "black", fontWeight: "500"}}>Beau's Cleaning Services</span>, is dedicated to keeping your space clean with industrial grade equipment. <span style={{color: "black", fontWeight: "500"}}> </span> <br /><br /> Members will receive YappolaAir native tokens in return for purchasing a membership.<br /><br /><span style={{color: "black", fontWeight: "500"}}></span> <Spacer /><span style={{color: "black", fontWeight: "500"}}> <Spacer /></span>  <span style={{color: "black", fontWeight: "500"}}></span> <Spacer />
+            <span style={{color: "black", fontWeight: "500"}}>Beau's Cleaning Services</span>, is dedicated to keeping your space clean with industrial grade equipment. <span style={{color: "black", fontWeight: "500"}}> </span> <br /><br /> 
+            
+            <br /><br /><span style={{color: "black", fontWeight: "500"}}></span> <Spacer /><span style={{color: "black", fontWeight: "500"}}> <Spacer /></span>  <span style={{color: "black", fontWeight: "500"}}></span> <Spacer />
 
             </Text>
         </Box>
