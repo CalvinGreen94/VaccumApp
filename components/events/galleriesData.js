@@ -38,7 +38,7 @@ const galleriesData = [
         externalUrl: 'https://.../'
     },
     {
-        title: 'Buff HardWood Floor',
+        title: (<><span style={{color: "white", fontWeight: "200"}}>Estimated Completion Time: <Spacer /> 4 hours</span> </>),
         croppedDescription: (<><span style={{color: "white", fontWeight: "200"}}>Estimated Completion Time: <Spacer /> 4 hours</span> </>),
         // description: (<>Mar 07, 2022, 4:00 PM UTC<br />New Art City<br /><br />Dante&apos;s Inferno. Canto IX. Third Circle: Gluttony<br /><br />TaurosDAO Members<br />Submissions open in <a style={{color: "#2E7DAF"}} href='https://discord.com/invite/labyrinthine' target="blank">Discord</a></>),
         buttonText: 'View',
