@@ -31,7 +31,7 @@ export default function EventsPage() {
                     <br />
                     <ListItem spacing={3}>
                         <ListIcon as={ImEarth} />
-                        Location2 (California)
+                        Location:  Norfolk, Va
                     </ListItem>
                     <br />
                     <br />

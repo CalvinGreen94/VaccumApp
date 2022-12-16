@@ -15,15 +15,16 @@ const truncate = (input, len) =>
 export default function MBY() {
 
   return (
-    <CustomContainer>
+    // <CustomContainer>
       <Box fontSize="xl" fontWeight="White" align="right">
 
-      <ImPhone /> (757) 201-2665  <Spacer />
+      <ImPhone /> (757) 201-2665 
+       <Spacer />
       <Spacer />
         <ImEnvelop  />beau-email@email.com
 
       </Box>
-    </CustomContainer>
+    //</CustomContainer>
   )
 }
 
